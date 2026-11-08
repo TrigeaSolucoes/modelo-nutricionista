@@ -1,0 +1,7 @@
+# Nutri Bianca Rocha — site-modelo
+
+Site-modelo **fictício** de Consultório de nutrição em Varginha (MG), criado pela [Trígea Soluções](https://trigea.com.br/) para mostrar como pode ficar o site de um negócio desse ramo.
+
+Demonstração: https://trigeasolucoes.github.io/modelo-nutricionista/
+
+Quer um site assim para o seu negócio? Fale com a Trígea: https://trigea.com.br/
